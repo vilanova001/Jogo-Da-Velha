@@ -1,0 +1,56 @@
+.botaoJogoDaVelha{
+    height: 150px;
+    width: 150px;
+    font-size: 100px;
+}
+
+#voltar{
+    margin: 0;
+    position: absolute;
+    top: 20px;
+    left: 40%;
+}
+
+#voltar{
+    width: 300px;
+    height: 50px;
+    background: #25be0a;
+    color: #fff;
+    border: 1px solid #eee;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #eee;
+    text-shadow:none;
+    cursor: pointer;
+    transition: 0.5s;
+    outline: 0;
+
+}
+
+#tamanhoCampo{
+    padding-top: 10px;
+    height: 145px;
+    width: 30;
+}
+
+#conteiner{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) }
+
+body{
+    max-width: 1280px;
+    width: 100%;
+    height: 900px;
+    background: linear-gradient(rgb(108, 158, 212) , rgb(18, 88, 209) , rgb(3, 9, 47) );
+}
+
+
+
+    
+
+
+
+
